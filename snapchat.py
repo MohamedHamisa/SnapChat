@@ -16,4 +16,3 @@ while True:
         break
 
 
-https://github.com/programminghero1/snap_dead
